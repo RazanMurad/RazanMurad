@@ -18,8 +18,6 @@ Passionate about software engineering and UI design • Always learning 🚀
 
 ---
 
-## 🛠️ Tech Stack
-
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
