@@ -15,7 +15,7 @@ Passionate about software engineering and UI design • Always learning 🚀
 
 - 👩🏻‍💻 Software Engineering student at **Umm Al-Qura University**
 - 💻 Interested in **Software Engineering** and **UI Design**
-- 🌱 Building and learning: software engineering & interface design enthusiast.
+- 🌱 Building and learning: software engineering & interface design enthusiast
 - ✨ Always eager to learn and improve my technical skills
 - 🔗 Sharing my journey on [LinkedIn](https://www.linkedin.com/in/razan-murad-7b5608360)
 - 📫 Reach me at: **rzanl891@gmail.com**
@@ -44,6 +44,12 @@ Passionate about software engineering and UI design • Always learning 🚀
 - 🌱 Learning new fields such as Artificial Intelligence (AI)
 
 ---
+
+## 📌 Projects
+
+### 🧩 Software Engineering Fundamentals Project
+**Description:** An intelligent chatbot prototype for customer support, improving response speed and accuracy.  
+**GitHub:** [View Project](https://github.com/RazanMurad/software-engineering-fundamentals-project.git)
 
 ---
 
