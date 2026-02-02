@@ -5,18 +5,24 @@
 Passionate about software engineering and UI design • Always learning 🚀
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3V4cWg1M2I5aXQzM2p6c2F3a2p6d2ZxM2V3bWg5c2ZlYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
+
 ---
 
 ## 🪄 About Me
 
 - 👩🏻‍💻 Software Engineering student at **Umm Al-Qura University**
 - 💻 Interested in **Software Engineering** and **UI Design**
-- 🌱 Building and learning: software engineering & interface design enthusiast."
+- 🌱 Building and learning: software engineering & interface design enthusiast.
 - ✨ Always eager to learn and improve my technical skills
 - 🔗 Sharing my journey on [LinkedIn](https://www.linkedin.com/in/razan-murad-7b5608360)
 - 📫 Reach me at: **rzanl891@gmail.com**
 
 ---
+
+## 💻 Technical Skills
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -39,6 +45,9 @@ Passionate about software engineering and UI design • Always learning 🚀
 
 ---
 
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RazanMurad&style=flat-square&color=blue" />
 </p>
+
